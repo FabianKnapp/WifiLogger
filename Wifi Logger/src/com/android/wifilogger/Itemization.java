@@ -1,4 +1,4 @@
-package com.android.wifilogger.UI.fragments;
+package com.android.wifilogger;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -9,7 +9,6 @@ import android.os.AsyncTask;
 import android.os.Handler;
 import android.os.Message;
 
-import com.android.wifilogger.MyApplication;
 import com.android.wifilogger.R;
 import com.google.android.maps.ItemizedOverlay;
 import com.google.android.maps.OverlayItem;

@@ -1,4 +1,4 @@
-package com.android.wifilogger.UI;
+package com.android.wifilogger.UI.fragments;
 
 import java.util.ArrayList;
 import java.util.Iterator;

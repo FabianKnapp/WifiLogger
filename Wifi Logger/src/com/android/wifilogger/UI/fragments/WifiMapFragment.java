@@ -30,8 +30,10 @@ import android.widget.LinearLayout;
 import android.widget.ZoomControls;
 
 import com.actionbarsherlock.app.SherlockFragment;
+import com.android.wifilogger.BigTextItemization;
 import com.android.wifilogger.Grid;
 import com.android.wifilogger.GridField;
+import com.android.wifilogger.Itemization;
 import com.android.wifilogger.MyApplication;
 import com.android.wifilogger.R;
 import com.android.wifilogger.WifiGrid;

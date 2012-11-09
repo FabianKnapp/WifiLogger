@@ -18,10 +18,11 @@ import com.android.wifilogger.Connectivity.LocationProviderLogic;
 import com.android.wifilogger.Connectivity.LocationProviderLogic.GpsChangeListener;
 import com.android.wifilogger.Connectivity.WifiBroadcastReceiver;
 import com.android.wifilogger.Connectivity.WifiBroadcastReceiver.WifiBroadcastReceived;
-import com.android.wifilogger.UI.OfflineDialog.OfflineDialogListener;
+import com.android.wifilogger.UI.fragments.OfflineDialog;
 import com.android.wifilogger.UI.fragments.SettingsFragment;
 import com.android.wifilogger.UI.fragments.WifiListFragment;
 import com.android.wifilogger.UI.fragments.WifiMapFragment;
+import com.android.wifilogger.UI.fragments.OfflineDialog.OfflineDialogListener;
 import com.google.android.maps.MapView;
 
 public class MainTabActivity extends SherlockFragmentActivity implements

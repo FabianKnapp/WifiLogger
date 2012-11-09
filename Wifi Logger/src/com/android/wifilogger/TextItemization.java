@@ -1,6 +1,5 @@
-package com.android.wifilogger.UI.fragments;
+package com.android.wifilogger;
 
-import com.android.wifilogger.MyApplication;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
