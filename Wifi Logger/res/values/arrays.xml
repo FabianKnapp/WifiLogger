@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="setup_specialsettingsoptions">
+        <item>@string/setup_specialsettings_option1</item>
+        <item>@string/setup_specialsettings_option2</item>
+        <item>@string/setup_specialsettings_option3</item>
+        <item>@string/setup_specialsettings_option4</item>
+        <item>@string/setup_specialsettings_option5</item>
+    </string-array>
+
+
+</resources>

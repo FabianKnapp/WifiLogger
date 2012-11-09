@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="fill_horizontal|center_vertical"
+    android:gravity="right"
+    android:paddingBottom="10dp"
+    android:paddingLeft="15dp"
+    android:paddingRight="15dp"
+    android:paddingTop="10dp" >
+
+    <CheckBox
+        android:id="@+id/setup_specialsettings_checkbox"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:focusable="false"
+        android:gravity="center_vertical" />
+
+    <TextView
+        android:id="@+id/setup_specialsettings_title"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_centerInParent="true"
+        android:layout_toLeftOf="@id/setup_specialsettings_checkbox"
+        android:gravity="center_vertical"
+        android:minEms="200"
+        android:text="blaa"
+        android:textSize="@dimen/text_settings_big" />
+
+</RelativeLayout>

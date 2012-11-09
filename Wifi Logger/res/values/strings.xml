@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">wifiLogger</string>
+
+    <string name="setup_specialsettings_option1">Show WEP</string>
+    <string name="setup_specialsettings_option2">Show WPA</string>
+    <string name="setup_specialsettings_option3">Show WPA2</string>
+    <string name="setup_specialsettings_option4">Show ESS</string>
+    <string name="setup_specialsettings_option5">Show WPS</string>
+   
+    <string name="menu_settings">Settings</string>
+    <string name="dialog_airplane_off">Your device is in airplane mode. For full functionality you need Wifi and Gps. Would you like to enable it now?</string>
+    <string name="dialog_wifi_gps">Your wifi and gps is offline. For full functionality you need wifi and gps. Would you like to enable it?</string>
+    <string name="dialog_wifi">Your wifi is offline. For full functionality you need wifi. Would you like to enable it?</string>
+    <string name="dialog_gps">Your gps is offline. For full functionality you need gps. Would you like to enable it?</string>
+    <string name="map_key">0N26Y9vjaP6XmmccmnGJbMypOSgsJBSJwnvC8Zg</string>
+    
+</resources>
